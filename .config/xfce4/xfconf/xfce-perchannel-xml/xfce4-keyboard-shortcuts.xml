@@ -95,6 +95,7 @@
       <property name="&lt;Super&gt;k" type="string" value="betterlockscreen -l dimblur"/>
       <property name="&lt;Super&gt;l" type="string" value="betterlockscreen -l dimblur"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;d" type="string" value="dmenu_run -i -nb &apos;#191919&apos; -nf &apos;#f5dec9&apos; -sb &apos;#e49994&apos; -sf &apos;#2a315b&apos; -fn &apos;Roboto:bold:pixelsize=13&apos;"/>
+      <property name="Super_L" type="string" value="xfce4-popup-whiskermenu"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
